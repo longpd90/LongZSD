@@ -1,0 +1,5 @@
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1 XCODE_VERSION=$(XCODE_VERSION_MAJOR)
+HEADER_SEARCH_PATHS = "${PODS_ROOT}/Headers/Private" "${PODS_ROOT}/Headers/Private/OHHTTPStubs" "${PODS_ROOT}/Headers/Public" "${PODS_ROOT}/Headers/Public/AFNetworking" "${PODS_ROOT}/Headers/Public/Braintree" "${PODS_ROOT}/Headers/Public/CardIO" "${PODS_ROOT}/Headers/Public/Expecta" "${PODS_ROOT}/Headers/Public/FLEX" "${PODS_ROOT}/Headers/Public/HockeySDK" "${PODS_ROOT}/Headers/Public/InAppSettingsKit" "${PODS_ROOT}/Headers/Public/KIF" "${PODS_ROOT}/Headers/Public/KIFViewControllerActions" "${PODS_ROOT}/Headers/Public/NSURL+QueryDictionary" "${PODS_ROOT}/Headers/Public/OCHamcrest" "${PODS_ROOT}/Headers/Public/OCMock" "${PODS_ROOT}/Headers/Public/OHHTTPStubs" "${PODS_ROOT}/Headers/Public/PureLayout" "${PODS_ROOT}/Headers/Public/Specta" "${PODS_ROOT}/Headers/Public/iOS-Slide-Menu"
+OTHER_LDFLAGS = -framework "CFNetwork" -framework "Foundation"
+PODS_ROOT = ${SRCROOT}
+SKIP_INSTALL = YES

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="6751" systemVersion="14C109" minimumToolsVersion="Automatic" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="BraintreePaymentMethodModel" representedClassName="BraintreePaymentMethodModel" syncable="YES">
+        <attribute name="bin" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="cardholderName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="cardType" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="expirationMonth" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="expirationYear" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="expired" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="imageURL" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="isDefault" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="last4" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="maskedNumber" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="token" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="LastUsedAddress" representedClassName="LastUsedAddress" syncable="YES">
+        <attribute name="address" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="date" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="lat" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="lng" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="type" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="LastUsedAddress" positionX="-63" positionY="-18" width="128" height="120"/>
+        <element name="BraintreePaymentMethodModel" positionX="-54" positionY="27" width="128" height="210"/>
+    </elements>
+</model>

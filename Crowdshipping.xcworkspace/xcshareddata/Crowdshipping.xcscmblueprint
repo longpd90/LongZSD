@@ -1,0 +1,57 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C651443B7B39808FD2DCA93E3E7C4F2141FF7B0D" : 0,
+    "B0786D69AAF9D705100FBAD125D938B090E1BB4D" : 0,
+    "5B3EB95C027941551540D502D20BCE33FBFABC81" : 0,
+    "58AAB0051E2B4EEDF1845A552012E6D0EBAD9127" : 0,
+    "BF2FE30DD30E807A424B26D63A15FEB4A29593EB" : 0,
+    "67620B5EFA902936DF04070AF595B76AB0333747" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7EBFC14A-3491-4E68-82B7-66B356176019",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C651443B7B39808FD2DCA93E3E7C4F2141FF7B0D" : "sender-ios\/3rd-party\/braintree_ios\/",
+    "B0786D69AAF9D705100FBAD125D938B090E1BB4D" : "sender-ios\/3rd-party\/intercom-ios\/",
+    "5B3EB95C027941551540D502D20BCE33FBFABC81" : "sender-ios\/3rd-party\/libPhoneNumber-iOS\/",
+    "58AAB0051E2B4EEDF1845A552012E6D0EBAD9127" : "sender-ios\/3rd-party\/ObjectMapper\/",
+    "BF2FE30DD30E807A424B26D63A15FEB4A29593EB" : "sender-ios\/3rd-party\/MMDrawerViewController\/",
+    "67620B5EFA902936DF04070AF595B76AB0333747" : "sender-ios\/3rd-party\/Alamofire\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Crowdshipping",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Crowdshipping.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Hearst-DD\/ObjectMapper.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "58AAB0051E2B4EEDF1845A552012E6D0EBAD9127"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/iziz\/libPhoneNumber-iOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5B3EB95C027941551540D502D20BCE33FBFABC81"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Alamofire\/Alamofire.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "67620B5EFA902936DF04070AF595B76AB0333747"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/intercom\/intercom-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B0786D69AAF9D705100FBAD125D938B090E1BB4D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mutualmobile\/MMDrawerController.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BF2FE30DD30E807A424B26D63A15FEB4A29593EB"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/braintree\/braintree_ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C651443B7B39808FD2DCA93E3E7C4F2141FF7B0D"
+    }
+  ]
+}

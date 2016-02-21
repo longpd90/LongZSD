@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   LastUpgradeVersion = "0710"
+   version = "1.3">
+   <BuildAction
+      parallelizeBuildables = "YES"
+      buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "0DE88EAA1A8E30EA00ABC3E3"
+               BuildableName = "Crowdshipping.app"
+               BlueprintName = "Crowdshipping"
+               ReferencedContainer = "container:Crowdshipping.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "NO"
+            buildForProfiling = "NO"
+            buildForArchiving = "NO"
+            buildForAnalyzing = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "0DE88EC21A8E30EA00ABC3E3"
+               BuildableName = "CrowdshippingTests.xctest"
+               BlueprintName = "CrowdshippingTests"
+               ReferencedContainer = "container:Crowdshipping.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "NO"
+            buildForArchiving = "NO"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "0D59CD031AD2C4F400557FB3"
+               BuildableName = "BraintreeTests.xctest"
+               BlueprintName = "BraintreeTests"
+               ReferencedContainer = "container:Crowdshipping.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "NO"
+            buildForArchiving = "NO"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "0D31B9B51AD4261800246F73"
+               BuildableName = "BraintreeLocalTests.xctest"
+               BlueprintName = "BraintreeLocalTests"
+               ReferencedContainer = "container:Crowdshipping.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <TestAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      shouldUseLaunchSchemeArgsEnv = "YES">
+      <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "0DE88EC21A8E30EA00ABC3E3"
+               BuildableName = "CrowdshippingTests.xctest"
+               BlueprintName = "CrowdshippingTests"
+               ReferencedContainer = "container:Crowdshipping.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "0D59CD031AD2C4F400557FB3"
+               BuildableName = "BraintreeTests.xctest"
+               BlueprintName = "BraintreeTests"
+               ReferencedContainer = "container:Crowdshipping.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "0D31B9B51AD4261800246F73"
+               BuildableName = "BraintreeLocalTests.xctest"
+               BlueprintName = "BraintreeLocalTests"
+               ReferencedContainer = "container:Crowdshipping.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "D669758A1BE5389B00B18058"
+               BuildableName = "BraintreeSwiftTests.xctest"
+               BlueprintName = "BraintreeSwiftTests"
+               ReferencedContainer = "container:Crowdshipping.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+      </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "0DE88EAA1A8E30EA00ABC3E3"
+            BuildableName = "Crowdshipping.app"
+            BlueprintName = "Crowdshipping"
+            ReferencedContainer = "container:Crowdshipping.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+      <AdditionalOptions>
+      </AdditionalOptions>
+   </TestAction>
+   <LaunchAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      launchStyle = "0"
+      useCustomWorkingDirectory = "NO"
+      ignoresPersistentStateOnLaunch = "NO"
+      debugDocumentVersioning = "YES"
+      debugServiceExtension = "internal"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "0DE88EAA1A8E30EA00ABC3E3"
+            BuildableName = "Crowdshipping.app"
+            BlueprintName = "Crowdshipping"
+            ReferencedContainer = "container:Crowdshipping.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+      <AdditionalOptions>
+      </AdditionalOptions>
+   </LaunchAction>
+   <ProfileAction
+      buildConfiguration = "Release"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      savedToolIdentifier = ""
+      useCustomWorkingDirectory = "NO"
+      debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "0DE88EAA1A8E30EA00ABC3E3"
+            BuildableName = "Crowdshipping.app"
+            BlueprintName = "Crowdshipping"
+            ReferencedContainer = "container:Crowdshipping.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </ProfileAction>
+   <AnalyzeAction
+      buildConfiguration = "Debug">
+   </AnalyzeAction>
+   <ArchiveAction
+      buildConfiguration = "Release"
+      customArchiveName = "Crowdshipping"
+      revealArchiveInOrganizer = "YES">
+   </ArchiveAction>
+</Scheme>

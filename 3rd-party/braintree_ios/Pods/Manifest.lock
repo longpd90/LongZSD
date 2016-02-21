@@ -1,0 +1,135 @@
+PODS:
+  - AFNetworking (2.6.1):
+    - AFNetworking/NSURLConnection (= 2.6.1)
+    - AFNetworking/NSURLSession (= 2.6.1)
+    - AFNetworking/Reachability (= 2.6.1)
+    - AFNetworking/Security (= 2.6.1)
+    - AFNetworking/Serialization (= 2.6.1)
+    - AFNetworking/UIKit (= 2.6.1)
+  - AFNetworking/NSURLConnection (2.6.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.6.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.6.1)
+  - AFNetworking/Security (2.6.1)
+  - AFNetworking/Serialization (2.6.1)
+  - AFNetworking/UIKit (2.6.1):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - Braintree (3.9.6):
+    - Braintree/API (= 3.9.6)
+    - Braintree/Coinbase (= 3.9.6)
+    - Braintree/Drop-In (= 3.9.6)
+    - Braintree/Payments (= 3.9.6)
+    - Braintree/PayPal (= 3.9.6)
+    - Braintree/UI (= 3.9.6)
+    - Braintree/Venmo (= 3.9.6)
+  - Braintree/3D-Secure (3.9.6):
+    - Braintree/API
+    - Braintree/Payments
+    - Braintree/UI
+  - Braintree/API (3.9.6)
+  - Braintree/Apple-Pay (3.9.6):
+    - Braintree/Payments
+  - Braintree/Coinbase (3.9.6):
+    - Braintree/API
+  - Braintree/Data (3.9.6):
+    - Braintree/API
+    - Braintree/PayPal
+  - Braintree/Drop-In (3.9.6):
+    - Braintree/API
+    - Braintree/Coinbase
+    - Braintree/Payments
+    - Braintree/PayPal
+    - Braintree/UI
+    - Braintree/Venmo
+  - Braintree/Payments (3.9.6):
+    - Braintree/API
+    - Braintree/Coinbase
+    - Braintree/PayPal
+    - Braintree/Venmo
+  - Braintree/PayPal (3.9.6):
+    - Braintree/API
+    - Braintree/UI
+  - Braintree/UI (3.9.6):
+    - Braintree/API
+  - Braintree/Venmo (3.9.6):
+    - Braintree/API
+  - CardIO (5.2.1)
+  - Expecta (1.0.3)
+  - FLEX (2.1.1)
+  - HockeySDK (3.8.4):
+    - HockeySDK/AllFeaturesLib (= 3.8.4)
+  - HockeySDK/AllFeaturesLib (3.8.4)
+  - InAppSettingsKit (2.6)
+  - iOS-Slide-Menu (1.5)
+  - KIF (3.3.0):
+    - KIF/Core (= 3.3.0)
+  - KIF/Core (3.3.0)
+  - KIFViewControllerActions (1.0.0):
+    - KIF (>= 2.0.0)
+  - NSURL+QueryDictionary (1.1.0)
+  - OCHamcrest (3.0.1)
+  - OCMock (3.2)
+  - OHHTTPStubs (3.1.12):
+    - OHHTTPStubs/Core (= 3.1.12)
+  - OHHTTPStubs/Core (3.1.12)
+  - PureLayout (3.0.1)
+  - Specta (1.0.4)
+
+DEPENDENCIES:
+  - AFNetworking (~> 2.6.0)
+  - Braintree (from `.`)
+  - Braintree/3D-Secure (from `.`)
+  - Braintree/Apple-Pay (from `.`)
+  - Braintree/Coinbase (from `.`)
+  - Braintree/Data (from `.`)
+  - CardIO
+  - Expecta (~> 1.0.2)
+  - FLEX
+  - HockeySDK
+  - InAppSettingsKit
+  - iOS-Slide-Menu
+  - KIF
+  - KIFViewControllerActions (from `https://github.com/mickeyreiss/KIFViewControllerActions.git`)
+  - NSURL+QueryDictionary (~> 1.0)
+  - OCHamcrest (~> 3.0.1)
+  - OCMock (~> 3.1)
+  - OHHTTPStubs (~> 3.1.0)
+  - PureLayout
+  - Specta (~> 1.0.3)
+
+EXTERNAL SOURCES:
+  Braintree:
+    :path: "."
+  KIFViewControllerActions:
+    :git: https://github.com/mickeyreiss/KIFViewControllerActions.git
+
+CHECKOUT OPTIONS:
+  KIFViewControllerActions:
+    :commit: 10d8d3a7bac839d75b8cec894326eae957372245
+    :git: https://github.com/mickeyreiss/KIFViewControllerActions.git
+
+SPEC CHECKSUMS:
+  AFNetworking: 8e4e60500beb8bec644cf575beee72990a76d399
+  Braintree: 74f0bd85743c2227147c361cc2c5c9aefe083ae8
+  CardIO: 710a4877315b3caa02dba01857aaa184fcbe21ad
+  Expecta: 9d1bff6c8b0eeee73a166a2ee898892478927a15
+  FLEX: 27b768fcae23a313a1eb115076d429180ca9b472
+  HockeySDK: 464a9eb01c42718515629d8d1d406983e5f855dc
+  InAppSettingsKit: cc56d3ec45f11352a16d5b210da8a3fa1b9d05ed
+  iOS-Slide-Menu: 40b0cbd8916c42afc755f0869793cd09e7a32102
+  KIF: 0a82046d06f3648799cac522d2d0f7934214caac
+  KIFViewControllerActions: 73085acd975ebbfc954f7895ca1aaa9faa36b3c6
+  NSURL+QueryDictionary: dd0a5fec689a9b4780b6fa0e0225c01ca3ea653e
+  OCHamcrest: e19857683e4eefab64b878668eac04c2f4567118
+  OCMock: 28def049ef47f996b515a8eeea958be7ccab2dbb
+  OHHTTPStubs: 8cf0cfe6f34f13fc88fdf5b2a1b2c2536e8c0261
+  PureLayout: f35f5384c9c4e4479df041dbe33ad7577b71ddfb
+  Specta: 69bb134672aae190a1379ff91df07dad8dd1f869
+
+COCOAPODS: 0.39.0
